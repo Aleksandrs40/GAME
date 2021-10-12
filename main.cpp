@@ -21,7 +21,7 @@ int main() {
   if (x > user_choise)  
    {cout <<"MORE";};
   }
-  if (flag==false)  {cout << "YOU LOSE!!!";};
+  if (flag==false)  {cout << "YOU LOSE!!! NUMBER WAS " << x;};
   return 0; 
 
 }
